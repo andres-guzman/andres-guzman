@@ -1,5 +1,5 @@
 Hell there, I'm a front-end developer from La Paz, Bolivia.
-I'm currently working on my own portfolio wich should be ready by June, 2021 (finally).
+I'm currently working on my own portfolio wich should be ready by June, 2021.
 
 Thanks for stopping by.
 
