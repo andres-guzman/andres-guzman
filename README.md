@@ -1,4 +1,4 @@
-Hi, I'm a web developer from La Paz, Bolivia. I also do some UI/UX design. Thanks for stopping by.
+Hi, I'm a web developer from La Paz, Bolivia. I am now studyng machine learning and data science because of a much needed carrer upgrade :=) I also do some UI/UX design. Thanks for stopping by.
 
 ✌🏾
 
