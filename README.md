@@ -1,4 +1,4 @@
-Hola, soy un desarrollador full-stack de La Paz, Bolivia. Ahora estudio machine learning y ciencia de datos. Solía hacer un poco de diseño UI/UX. Gracias por pasar por aquí.
+Hola, soy un desarrollador full-stack de La Paz, Bolivia. Ahora estudio machine learning y ciencia de datos. Gracias por pasar por aquí.
 
 ✌🏾
 
