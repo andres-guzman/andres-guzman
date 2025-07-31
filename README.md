@@ -1,4 +1,5 @@
-Hola, soy un desarrollador full-stack de La Paz, Bolivia. Ahora estudio machine learning y ciencia de datos. Gracias por pasar por aquí.
+Hola, soy un ingeniero de software full-stack de La Paz, Bolivia. Ahora estudio machine learning y ciencia de datos, matemáticas para AI y algoritmos complejos. Gracias por pasar por aquí.
+In the interest of full disclosure, my AI studies are done but I will never stop learning, so it sounds nerdly and poetic to me to keep that, so I did.
 
 ✌🏾
 
