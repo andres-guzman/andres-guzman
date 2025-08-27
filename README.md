@@ -1,4 +1,4 @@
-Hola, soy un ingeniero de software de La Paz. Trabajo en ciencia de datos/machine y AI aplicada.
+Hola, soy un ingeniero de software de La Paz. Trabajo en ciencia de datos/machine learning y AI aplicada.
 
 ✌🏾
 
