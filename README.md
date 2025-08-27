@@ -1,4 +1,4 @@
-Hola, soy un ingeniero de software. Trabajo en AI/machine learning aplicada y ciencia de datos.
+Hola, soy un ingeniero de software. Trabajo en ciencia de datos/machine y AI aplicada.
 
 ✌🏾
 
